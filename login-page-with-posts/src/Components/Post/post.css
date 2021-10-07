@@ -1,0 +1,21 @@
+.div-post{
+    display: flex;
+    flex-direction: column;
+    border: 5px solid #dbdbdb;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.div-body{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    font-size:8mm
+}
+
+.div-title{
+    border-bottom: 2px solid rgb(231, 144, 144);    width:100%;
+    font-weight: bold;
+    font-size:10mm
+}
